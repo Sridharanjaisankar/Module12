@@ -47,3 +47,4 @@ Stack is not full
 ```
 ## Result
 Hence Checked and Displayed Whether the Stack is Full or Not
+
